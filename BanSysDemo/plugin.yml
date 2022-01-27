@@ -1,0 +1,8 @@
+name: LegendGuard
+main: de.bansysdemo.Bansysdemo
+author: 1lay
+version: 1.0
+api-version: 1.18
+
+commands:
+  guard:
